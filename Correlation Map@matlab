@@ -1,0 +1,4 @@
+Pearson Correlation Map  
+> colormap('hot')    
+> imagesc(data)   
+> colorbar
