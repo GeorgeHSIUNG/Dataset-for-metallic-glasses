@@ -1,5 +1,0 @@
-Pearson Correlation Map  
-Code by George in Matlab  
-colormap('hot') 
-imagesc(data) 
-colorbar
