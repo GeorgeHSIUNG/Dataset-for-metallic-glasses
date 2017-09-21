@@ -1,1 +1,7 @@
-Literature data
+DATASET  
+BMGs:bulk metallic glasses
+AF:alloys-format
+EF:elements-format
+K:bulk modulus
+G:shear modulus
+E:youngs' modulus
