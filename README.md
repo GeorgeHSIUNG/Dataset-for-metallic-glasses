@@ -4,4 +4,4 @@ Jie 'George' XIONG
 
 Department of Mechanical Engineering    
 The HONG KONG Ploytechnic University  
-Kowloon Hong Kong S.A.R
+Hong Kong SAR, PRC
