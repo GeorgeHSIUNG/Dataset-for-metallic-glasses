@@ -1,6 +1,7 @@
 # MaterialData-HKPU
 Original Data of Bulk Metallic Glasses (BMGs)   
-Jie 'George' XIONG H.K. China  
+Jie 'George' XIONG
+Department of Mechanical Engineering    
 The HONG KONG Ploytechnic University  
-Department of Mechanical Engineering     
+Kowloon Hong Kong S.A.R
 @CopyRight 2017
