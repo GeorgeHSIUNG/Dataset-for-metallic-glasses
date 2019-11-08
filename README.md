@@ -1,5 +1,5 @@
 # MaterialData-HKPU
-ML approach to predicting and understanding the properties of metallic glasses  
+  
 Jie XIONG
 
 Department of Mechanical Engineering    
