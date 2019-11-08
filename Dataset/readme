@@ -1,7 +1,5 @@
-DATASET  
-BMGs:bulk metallic glasses
-AF:alloys-format
-EF:elements-format
-K:bulk modulus
-G:shear modulus
-E:youngs' modulus
+This dataset is for machine learning prediction of bulk metallic glaaaes, containing 
+glass forming ability data (GFA)
+critical casting diameter data (Dmax)
+characteristic transformation data (CTTs)
+elastic moduli data (EM)
