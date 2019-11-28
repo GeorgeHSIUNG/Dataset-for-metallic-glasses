@@ -1,3 +1,1 @@
-$$X_{1}=\sum a_{i}X_{i}$$
-$$X_{2}=(\sum \frac{a_{i}}{X_{i}})^{-1}$$
-http://www.forkosh.com/mathtex.cgi?\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+![](http://latex.codecogs.com/gif.latex?%5Csigma%3D%5Csqrt%7B%5Cfrac%7B1%7D%7Bn%7D%7B%5Csum_%7Bk%3D1%7D%5En%28x_i-%5Cbar%7Bx%7D%29%5E2%7D%7D)
