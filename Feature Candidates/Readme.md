@@ -4,6 +4,7 @@ Them were calculated from the elemental properties based on the linear-mixture r
 ![image](https://github.com/GeorgeHSIUNG/Dataset-for-metallic-glasses/blob/master/image/EQs.PNG)
 
 ***Thermodynamic Parameters*** reflect the driving force for glass transformation, and these parameters are defined in the equations below
+
 ![image](https://github.com/GeorgeHSIUNG/Dataset-for-metallic-glasses/blob/master/image/The.PNG)
 
 ***Valence Electron Distributions*** comprised the number (sVEC, pVEC, dVEC) and the fraction (fs, fp, fd) of electrons in the s, p, d valence orbitals of an element, based on the linear mixture rule
